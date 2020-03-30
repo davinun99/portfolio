@@ -43,6 +43,7 @@ const Footer = () => {
                         <a href="https://www.facebook.com/davidramonn" className="social-circle mr-1" target="_blank" rel="noopener noreferrer"><span className="icon-facebook"></span></a>
                         <a href="https://www.instagram.com/nundavid99" className="social-circle mr-1" target="_blank" rel="noopener noreferrer"><span className="icon-instagram"></span></a>
                         <a href="https://www.linkedin.com/in/david-nu%C3%B1ez-652a99187/" className="social-circle mr-1" target="_blank" rel="noopener noreferrer"><span className="icon-linkedin"></span></a>
+                        <a href="https://github.com/davinun99" className="social-circle mr-1" target="_blank" rel="noopener noreferrer"><span className="icon-github"></span></a>
                     </div>
                 </div>
                 <div className="row">
