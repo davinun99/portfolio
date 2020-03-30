@@ -18,7 +18,7 @@ const Header = () => {
                             <nav className="site-navigation position-relative text-right" role="navigation">
                                 <ul className="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                                     <li><a href="#home-section" className="nav-link">Home</a></li>
-                                    <li><a href="#services-section" className="nav-link">Services</a></li>
+                                    <li><a href="#services-section" className="nav-link">Skills</a></li>
                                     <li><a href="#about-section" className="nav-link">About</a></li>
                                 </ul>
                             </nav>
@@ -30,7 +30,7 @@ const Header = () => {
                             <nav className="site-navigation position-relative" role="navigation">
                                 <ul className="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                                     <li><a href="#portfolio-section" className="nav-link">Portfolio</a></li>
-                                    <li><a href="#clients-section" className="nav-link">Client</a></li>
+                                    {/*<li><a href="#clients-section" className="nav-link">Client</a></li>*/}
                                     <li><a href="#contact-section" className="nav-link">Contact</a></li>
                                 </ul>
                             </nav>

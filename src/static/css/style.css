@@ -593,7 +593,7 @@ body:after {
     font-family: "Arbutus Slab", serif; }
   .site-blocks-cover .img-face {
     position: absolute;
-    right: -5%;
+    right: 15%;
     bottom: 0;
     z-index: 1;
     max-width: 950px; }
