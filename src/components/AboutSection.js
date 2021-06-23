@@ -14,8 +14,15 @@ const AboutSection = () => {
                         </div>
                     </div>
                     <div className="col-lg-4 order-2 order-lg-1">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ipsum error eligendi molestiae eaque quas, ducimus sequi excepturi?</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ipsum error eligendi molestiae eaque quas, ducimus sequi excepturi?</p>
+                        <p>
+                            One semester away from being a Software Engineer in the best university of Paraguay. 
+                            Currently working as a front-end web developer in Oktana using modern technologies such as React and Lightning Web Components, 
+                            involved in many internal and external projects.
+                        </p> 
+                        <p>
+                            My life has taught me the importance of teamwork and how projects become easier when you have a great team so 
+                            I try to always help others and ask for help when I needed!
+                        </p>
                     </div>
                     <div className="col-lg-4 order-3 order-lg-3">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ipsum error eligendi molestiae eaque quas, ducimus sequi excepturi?</p>
