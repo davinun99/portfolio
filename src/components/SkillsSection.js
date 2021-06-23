@@ -12,8 +12,8 @@ const SkillsSection = () => {
                         <div class="service d-flex h-100">
                             <div class="service-number mr-4"><span class="icon-style"></span></div>
                             <div class="service-about">
-                                <h3>Application development</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ipsum error eligendi molestiae eaque quas, ducimus sequi excepturi?</p>
+                                <h3>Salesforce development</h3>
+                                <p>Working with salesforce for 10+ projects. Two times salesforce certified.</p>
                             </div>
                         </div>
                     </div>
@@ -23,7 +23,7 @@ const SkillsSection = () => {
                             <div class="service-number mr-4"><span class="icon-business_center"></span></div>
                             <div class="service-about">
                                 <h3>Web Development</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ipsum error eligendi molestiae eaque quas, ducimus sequi excepturi?</p>
+                                <p>Working with modern frameworks in back-end and front-end to develop beatiful and reliable pages.</p>
                             </div>
                         </div>
                     </div>
@@ -33,7 +33,7 @@ const SkillsSection = () => {
                             <div class="service-number mr-4"><span class="icon-desktop_windows"></span></div>
                             <div class="service-about">
                                 <h3>Product Analyst</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ipsum error eligendi molestiae eaque quas, ducimus sequi excepturi?</p>
+                                <p>Scoped requirements and design solutions for mobile pre-paid and post-paid customers</p>
                             </div>
                         </div>
                     </div>
@@ -42,8 +42,8 @@ const SkillsSection = () => {
                         <div class="service d-flex h-100">
                             <div class="service-number mr-4"><span class="icon-layers"></span></div>
                             <div class="service-about">
-                                <h3>System administration & support</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ipsum error eligendi molestiae eaque quas, ducimus sequi excepturi?</p>
+                                <h3>Data Analyst & Machine Learning enthusiast</h3>
+                                <p>Many hours of theoretical and practical courses completed regarding machine learning techniques and algorithms.</p>
                             </div>
                         </div>
                     </div>
