@@ -596,7 +596,10 @@ body:after {
     right: 15%;
     bottom: 0;
     z-index: 1;
-    max-width: 950px; }
+    max-width: 950px; 
+	width: 433px;
+	height: 577px;
+}
     @media (max-width: 991.98px) {
       .site-blocks-cover .img-face {
         right: -25%; } }
@@ -864,3 +867,11 @@ body:after {
     color: #888888; }
     .footer a:hover {
       color: #000; }
+
+.portfolio-item-img{
+	width: 350px;
+	height: 290px;
+	object-fit: contain;
+	border: #999999 0.1px solid;
+	border-radius: 5px;
+}

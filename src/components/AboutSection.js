@@ -1,5 +1,5 @@
 import React from 'react'
-import davidPhoto from '../static/images/david.png'
+import davidPhoto from '../static/images/davidv2.png'
 const AboutSection = () => {
     return (
         <div className="site-section" id="about-section">
@@ -16,18 +16,19 @@ const AboutSection = () => {
                     <div className="col-lg-4 order-2 order-lg-1">
                         <p>
                             One semester away from being a Software Engineer in the best university of Paraguay. 
-                            Currently working as a front-end web developer in Oktana using modern technologies such as React and Lightning Web Components, 
+                            Currently working as a fullstack developer in Nimbl.ai using modern technologies such as React, Node JS and AWS Lambda, 
                             involved in many internal and external projects.
                         </p> 
                         <p>
                             My life has taught me the importance of teamwork and how projects become easier when you have a great team so 
-                            I try to always help others and ask for help when I needed!
+                            I try to always help others and be a good example when I'm in charge of leading a team!
                         </p>
                     </div>
                     <div className="col-lg-4 order-3 order-lg-3">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ipsum error eligendi molestiae eaque quas, ducimus sequi excepturi?</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aperiam qui maiores, ipsa quibusdam distinctio! Expedita ipsum ex porro obcaecati.</p>
-                        <p><a href="#contact-section" className="btn smoothscroll btn-primary">Contact Me</a></p>
+						Experienced Software Engineer with 5 years of extensive experience in software development, design, and troubleshooting. 
+						Proven ability to work with cross-functional teams and deliver high-quality software applications. 
+						Skilled in developing web applications and reliable software solutions. 
+						Looking forward to challenges where I can lead technical projects or be part of a high-productivity team and develop innovative software applications.
                     </div>
                 </div>
             </div>

@@ -13,7 +13,7 @@ const SkillsSection = () => {
                             <div class="service-number mr-4"><span class="icon-style"></span></div>
                             <div class="service-about">
                                 <h3>Salesforce development</h3>
-                                <p>Working with salesforce for 10+ projects. Two times salesforce certified.</p>
+                                <p>Working with Salesforce, Oktana, Sony and other Salesforce partners for several projects. Two times salesforce certified.</p>
                             </div>
                         </div>
                     </div>
@@ -22,7 +22,7 @@ const SkillsSection = () => {
                         <div class="service d-flex h-100">
                             <div class="service-number mr-4"><span class="icon-business_center"></span></div>
                             <div class="service-about">
-                                <h3>Web Development</h3>
+                                <h3>Fullstack Web Development</h3>
                                 <p>Working with modern frameworks in back-end and front-end to develop beatiful and reliable pages.</p>
                             </div>
                         </div>
@@ -33,7 +33,7 @@ const SkillsSection = () => {
                             <div class="service-number mr-4"><span class="icon-desktop_windows"></span></div>
                             <div class="service-about">
                                 <h3>Product Analyst</h3>
-                                <p>Scoped requirements and design solutions for mobile pre-paid and post-paid customers</p>
+                                <p>Scoped requirements and design solutions for several projects in industries like telecomunications, recruitment, supply chain, training and human resources.</p>
                             </div>
                         </div>
                     </div>

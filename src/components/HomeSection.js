@@ -1,5 +1,5 @@
 import React from 'react'
-import DavidPhoto from '../static/images/david.png';
+import DavidPhoto from '../static/images/davidBg.jpg';
 const HomeSection = () => {
     return (
         <div className="site-blocks-cover overlay bg-light" id="home-section">
